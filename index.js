@@ -16,3 +16,4 @@ class Pez {
 const boga = new Pez("Marco", 30, "2mts", "Few");
 
 console.log(boga.doProtectedLayup());
+console.log(boga.doRandomJoke());
